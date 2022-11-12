@@ -1,4 +1,4 @@
-# PrayerTimes app
+# Note Pad
 
 <h3> Technology used: </h3>
          <h6>Dart 2.16.1 </h6> 
